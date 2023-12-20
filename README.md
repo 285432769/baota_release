@@ -44,27 +44,27 @@ curl -L https://githubfast.com/weiwang3056/baota_release/blob/main/LinuxPanel/Li
 ```
 ###演示宝塔降级：8.0.2 --> 7.7.0
 ```
-（1）、下载curl包
+* （1）、下载curl包
 ```
 yum install curl
 ```
-（2）、下载离线包
+* （2）、下载离线包
 ```
 curl -L https://githubfast.com/weiwang3056/baota_release/blob/main/LinuxPanel/LinuxPanel-7.7.0.zip\?raw\=true > LinuxPanel-7.7.0.zip
 ```
-（3）、解压
+* （3）、解压
 ```
 unzip LinuxPanel-*
 ```
-（4）、切换到降级包目录
+* （4）、切换到降级包目录
 ```
 cd panel
 ```
-（5）、执行脚本
+* （5）、执行脚本
 ```
 bash update.sh
 ```
-（6）、删除降级包
+* （6）、删除降级包
 ```
 cd .. && rm -f LinuxPanel-*.zip && rm -rf panel
 ```
