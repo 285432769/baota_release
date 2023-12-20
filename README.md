@@ -43,7 +43,7 @@ wget -O install.sh http://download.bt.cn/install/install_6.0.sh && bash install.
 curl -L https://githubfast.com/weiwang3056/baota_release/blob/main/LinuxPanel/LinuxPanel-7.4.0.zip\?raw\=true > LinuxPanel-7.4.0.zip
 ```
 ###演示宝塔降级：8.0.2 --> 7.7.0
-```
+
 * （1）、下载curl包
 ```
 yum install curl
