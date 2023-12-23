@@ -40,7 +40,7 @@ wget -O install.sh http://download.bt.cn/install/install_6.0.sh && bash install.
 ### 降级
 下载指定版本降级包
 ```
-curl -L https://githubfast.com/weiwang3056/baota_release/blob/main/LinuxPanel/LinuxPanel-7.4.0.zip\?raw\=true > LinuxPanel-7.4.0.zip
+curl -L https://githubfast.com/285432769/baota_release/blob/main/LinuxPanel/LinuxPanel-7.7.0.zip\?raw\=true > LinuxPanel-7.7.0.zip
 ```
 ###演示宝塔降级：8.0.2 --> 7.7.0
 
@@ -50,7 +50,7 @@ yum install curl
 ```
 * （2）、下载离线包
 ```
-curl -L https://githubfast.com/weiwang3056/baota_release/blob/main/LinuxPanel/LinuxPanel-7.7.0.zip\?raw\=true > LinuxPanel-7.7.0.zip
+curl -L https://githubfast.com/285432769/baota_release/blob/main/LinuxPanel/LinuxPanel-7.7.0.zip\?raw\=true > LinuxPanel-7.7.0.zip
 ```
 * （3）、解压
 ```
