@@ -90,7 +90,7 @@ chattr +i /www/server/panel/data/plugin.json
 # 净化面板
 # 下载文件
 ```
-wget -O /tmp/bt.zip https://github.com/woniu336/btpanel-v7.7.0/raw/main/bt/bt.zip
+wget -O /tmp/bt.zip https://githubfast.com/285432769/baota_release/blob/main/LinuxPanel/bt.zip
 ```
 
 # 解压文件并合并到目标目录
